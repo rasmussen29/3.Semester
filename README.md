@@ -11,9 +11,8 @@
 - SSH into a local Virtual Ubuntu 18.04 server, started by Vagrant and Virtual Box: <b>vagrant ssh</b>
 - Connect to a MySQL server running on a local Virtual Ubuntu 18.04 server, started by Vagrant and Virtual Box: <b> vagrant ssh -> mysql -u dev -p ax2</b>
 
-<br></br>
+<br><b>20-08-19:</b></br>
 
-<b>20-08-19:</b>
 - Redegøre for ORM frameworks generelt og deres pros/cons: <b>"Object-relational mapping" i bund og grund handler ORM om at kunne forbinde og bruge en database uden brug af SQL statements. Men med et programmeringssprog vi selv vælger. </b>
 - Redegøre for forskellen mellem JPA og andre persistensmetoder: <b> </b>
 - Redegøre for de mest brugte klasser og metoder i JPA
@@ -21,9 +20,7 @@
 - Redegøre for og demonstrere brug af begreber som EntityManager, EntityManagerFactory samt Persistence.xml: <b> Se projekt </b>
 - Demonstrere Insert og Select: <b> Se projekt </b>
 
-<br></br>
-
-<b>21-08-19:</b>
+<br><b>21-08-19:</b></br>
 - Redegøre for begrebet Restfull webservices:
 - Redegøre for konventioner ved opbygning af REST api'er:
 - Oprette et Java projekt med REST endpoints:
